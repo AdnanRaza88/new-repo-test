@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+pydantic
+python-dotenv
+groq
+langchain
+langchain-community
+langchain-groq
+pandas
+openpyxl
+python-multipart
